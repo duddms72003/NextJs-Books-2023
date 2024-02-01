@@ -4,7 +4,7 @@ export default function NavBar() {
   return (
     <nav>
       <Link href="/">
-        <a className="nav-link underline yellow">왜 안나오는거야</a>
+        <a className="nav-link underline yellow">Home</a>
       </Link>
       <Link href="/about">
         <a className="nav-link underline yellow">About</a>
